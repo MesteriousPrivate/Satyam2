@@ -7,7 +7,7 @@ Ye bot group, channel aur private chats me perfectly kaam karta hai. 🚀
 
 ## 🎶 **Live Music Wave Effect**
 <p align="center">
-    <img src="https://media.giphy.com/media/L13cMGttxGkZi/giphy.gif" alt="Music Wave" width="100%">
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Spotify Music Wave" width="100%">
 </p>
 
 ---
@@ -96,4 +96,4 @@ Aap bhi Noxx Music ko behtar banane me madad kar sakte hain. GitHub par project 
 ---
 
 ✅ **Enjoy Noxx Music Bot** 🎵🔥  
-✨ **Best Telegram Music Bot with Wave Effects and Smooth Streaming!** 🚀
+✨ **Best Telegram Music Bot with Spotify Style Wave Effects and Smooth Streaming!** 🚀
