@@ -5,6 +5,13 @@ Ye bot group, channel aur private chats me perfectly kaam karta hai. 🚀
 
 ---
 
+## 🎶 **Live Music Wave Effect**
+<p align="center">
+    <img src="https://media.giphy.com/media/L13cMGttxGkZi/giphy.gif" alt="Music Wave" width="100%">
+</p>
+
+---
+
 ## 🚀 **Deploy Noxx Music on Heroku**
 Heroku par apna khud ka bot deploy karne ke liye niche ke button par click karein:  
 <p align="center">
@@ -68,7 +75,25 @@ Noxx Music ke owner se judne ke liye:
 
 ---
 
-## 🌊 **Music Wave Effect**
-```css
-🎵🎶🎧 🎷🎸🥁 🎺🎤  
-🌊🌊🌊🌊🌊🌊🌊🌊🌊
+## ❤️ **Support & Community**
+Agar aapko koi bhi help chahiye ya feedback dena hai, to hamare Telegram group me judhiye:  
+<p align="center">
+    <a href="https://t.me/NoxxNetwork">
+        <img src="https://img.shields.io/badge/Support%20Group-Join%20Now-FF4500?style=for-the-badge&logo=telegram" alt="Support">
+    </a>
+</p>
+
+---
+
+## 🚀 **Contribute**
+Aap bhi Noxx Music ko behtar banane me madad kar sakte hain. GitHub par project ko fork kijiye aur apne valuable contributions dijiye.  
+<p align="center">
+    <a href="https://github.com/powerfulboys123/NoxxMusic">
+        <img src="https://img.shields.io/badge/GitHub-Noxx%20Music-181717?style=for-the-badge&logo=github" alt="GitHub">
+    </a>
+</p>
+
+---
+
+✅ **Enjoy Noxx Music Bot** 🎵🔥  
+✨ **Best Telegram Music Bot with Wave Effects and Smooth Streaming!** 🚀
